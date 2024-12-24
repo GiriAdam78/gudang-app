@@ -1,0 +1,35 @@
+li{
+  list-style-type: none;
+}
+.mr-3{
+  margin-right: 3px;
+}
+
+.flex{
+  display: flex;
+}
+.w-full{
+  width: 100%;
+}
+.h-screen{
+  height: 50vh;
+}
+.imgkecil{
+  width:100%;
+  height: auto;
+}
+.info-gudang{
+  height: 60vh;
+  width: auto;
+}
+@media only screen and (max-width:600px){
+  .h-screen{
+      height: 60vh;
+  }
+  .center{
+      text-align: center;
+  }
+  .wrapper-mobile{
+      height: 50vh;
+  }
+}
