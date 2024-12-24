@@ -9,9 +9,9 @@ import {
 import Dashboard from "./pages/dashboard";
 import Navbar from "./components/Navbar";
 import HomePage from "./HomePage";
-import List from "./pages/list";
-import Tambah from "./pages/tambah";
-import EditGudang from "./pages/editData";
+import List from "./list";
+import Tambah from "./tambah";
+import EditGudang from "./editData";
 
 function App() {
   const location = useLocation();
