@@ -6,7 +6,7 @@ import {
   SignedOut,
   RedirectToSignIn,
 } from "@clerk/clerk-react";
-import Dashboard from "./pages/dashboard";
+import Dashboard from "./dashboard";
 import Navbar from "./components/Navbar";
 import HomePage from "./HomePage";
 import List from "./list";
